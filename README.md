@@ -1,4 +1,4 @@
-# DeadlineGPT 🚀
+# DeadlineGPT
 
 An AI-powered project manager built for hackathons that cuts through the noise. DeadlineGPT automatically analyzes your urgent emails, syncs with your Google Calendar, and uses **Gemini 2.5 Flash** to generate a clear, prioritized action plan for your day.
 
@@ -8,7 +8,7 @@ An AI-powered project manager built for hackathons that cuts through the noise. 
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Automated Triage:** Instantly pulls your unread/urgent emails and upcoming calendar events.
 - **AI Action Plan:** Uses Gemini 2.5 Flash to synthesize your data and tell you exactly what you need to focus on right now.
@@ -16,7 +16,7 @@ An AI-powered project manager built for hackathons that cuts through the noise. 
 - **One-Click Drafting:** Drafts replies to urgent emails or outlines for documents directly from your dashboard.
 - **Beautiful UI:** A sleek, dark-mode focused, glassmorphism dashboard that makes productivity feel premium.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React + Vite (Vanilla CSS for custom glassmorphism UI)
 - **Backend:** Node.js + Express
@@ -24,7 +24,7 @@ An AI-powered project manager built for hackathons that cuts through the noise. 
 - **AI Integration:** Google Gen AI SDK (Gemini 2.5 Flash model)
 - **Deployment:** Docker + Google Cloud Run + Google Cloud Build
 
-## 🚀 Running Locally
+## Running Locally
 
 Want to run DeadlineGPT on your own machine?
 
@@ -64,7 +64,3 @@ npm run dev
 ```
 
 Visit `http://localhost:5173` in your browser!
-
----
-
-*Built with ❤️ during a weekend hackathon.*
